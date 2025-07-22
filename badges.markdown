@@ -10,6 +10,8 @@ A collection of verified acheivements from a range of sources, as I have tinkere
 ### Codewars
 ![](https://www.codewars.com/users/mikesb101/badges/large)
 
+<div id='codewars-target'></div>
+
 [CodeWars](https://www.codewars.com) is a platform for completing [katas](https://en.wikipedia.org/wiki/Kata#Outside_martial_arts) in various different languages, practicing techniques and approaches.
 
 ### Salesforce Trailhead
@@ -20,4 +22,7 @@ A collection of verified acheivements from a range of sources, as I have tinkere
 ### Credly
 [Find my profile here.](https://www.credly.com/users/mike-brown.790b3f03)
 
-<div data-iframe-width="400" data-iframe-height="270" data-share-badge-id="88b5a3e1-a2ef-416a-a552-c04bac1a701e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="400" data-iframe-height="270" data-share-badge-id="88b5a3e1-a2ef-416a-a552-c04bac1a701e" data-share-badge-host="https://www.credly.com"></div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<script type="text/javascript" async src="/assets/scripts/getCodewarsData.js"></script>
