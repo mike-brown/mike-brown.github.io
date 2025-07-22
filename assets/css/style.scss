@@ -3,7 +3,32 @@
 
 @import "{{ site.theme }}";
 
-#no-sidebar {
-    float: none;
+header h1 {
     width: auto;
 }
+
+.no-sidebar {
+    float: none !important;
+    width: auto !important;
+}
+
+#sidebar {
+    display:flex;
+    flex-direction: column;
+    gap: 10px
+}
+.sidebar-link {
+    border: outset 2px lightgrey;
+    border-radius: 10px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 18px;
+    background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+
+    &:hover{
+        color:#000
+    }
+}
+
