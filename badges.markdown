@@ -8,16 +8,22 @@ layout: default
 A collection of verified acheivements from a range of sources, as I have tinkered with things over the years.
 
 ### Codewars
-![](https://www.codewars.com/users/mikesb101/badges/large)
+[CodeWars](https://www.codewars.com) is a platform for completing [katas](https://en.wikipedia.org/wiki/Kata#Outside_martial_arts) in various different languages, practicing techniques and approaches. Difficulty of challenges range from 8 kyu (easiest) to 1 kyu (hardest), and progress against each language is tracked for an overall ranking.
 
-<div id='codewars-target'></div>
+<a href='https://www.codewars.com/users/mikesb101'>
+    ![](https://www.codewars.com/users/mikesb101/badges/large)
+</a>
 
-[CodeWars](https://www.codewars.com) is a platform for completing [katas](https://en.wikipedia.org/wiki/Kata#Outside_martial_arts) in various different languages, practicing techniques and approaches.
+<div id='codewars-loader'>Loading full details...</div>
+<table id='codewars-target'>
+    <tr><th>Language</th><th>Rank</th><th>Score</th></tr>
+</table>
 
 ### Salesforce Trailhead
+[Salesforce Trailhead](https://trailhead.salesforce.com/) is a learning platform for Salesforce skills, breaking knowledge down into modules and badges to give practical, hands-on experience in building and configuring the different aspects of the Salesforce ecosystem.
 [Find my profile here.](https://www.salesforce.com/trailblazer/a6q189jbo4u3k1gt9v)
 
-[Salesforce Trailhead](https://trailhead.salesforce.com/) is a learning platform for Salesforce skills, breaking knowledge down into modules and badges to give practical, hands-on experience in building and configuring the different aspects of the Salesforce ecosystem.
+
 
 ### Credly
 [Find my profile here.](https://www.credly.com/users/mike-brown.790b3f03)
