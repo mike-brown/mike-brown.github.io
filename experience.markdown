@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[&larr; Back home](./index.html)
+
 # Experience
 
 Below are some of the things (technical and non-technical) I've undertaken across my career, that I feel have helped to shape me or that I felt were interesting highlights. 

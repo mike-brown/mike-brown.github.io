@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: home
 ---
 
 # Who am I?
 
 I am a passionate problem solver with a desire to support others in growing and achieving their potential. I enjoy working closely with product teams to produce short-term tactical solutions to immediate issues, or help to define longer-term solutions to support their strategic vision.
 
-With 15 years of software engineering experience, working in both the health research and online gambling industries, I have strived to always have a positive impact for end users, internal users, and my colleagues.
+[With 15 years of software engineering experience](./experience.html), working in both the health research and online gambling industries, I have strived to always have a positive impact for end users, internal users, and my colleagues.
 
 
 # Professional Interests

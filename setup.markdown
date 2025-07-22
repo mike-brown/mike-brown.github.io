@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[&larr; Back home](./index.html)
+
 # Why did I write this section?
 
 This page is very much meant for my direct reports, and any other colleagues (or indeed, anyone interested) in how I quickly setup a microsite to act as a bit of a portfolio.
