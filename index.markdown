@@ -26,4 +26,4 @@ I am a passionate problem solver with a desire to support others in growing and 
 
 ## Why does this exist?
 
-It seemed like a good idea to have a centralised presence on the Internet. [I noted down my setup experience](./setup.html) for anyone interested in the steps this involve.
+It seemed like a good idea to have a centralised presence on the Internet. [I noted down my setup experience](./setup.html) for anyone interested in the steps this involved.
